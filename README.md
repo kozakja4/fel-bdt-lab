@@ -7,6 +7,9 @@ Přihlaste se na Snowflake účet dle pokynů sdělených během cvičení.
 URL - https://ulc64393.us-east-1.snowflakecomputing.com/console/login
 
 Credentials - viz tabulka
+                    PASSWORD = 'NI-MLP-User-{x}'
+                    LOGIN_NAME = 'MLP_USER_{x}'
+Kde x je vam pridelene cislo.
 
 ## Úlohy
 Stáhněte si všechny Python notebooky z tohoto repozitáře na svůj lokální počítač. Následně si je nahrajte do svého Snowflake workspacu:
