@@ -4,7 +4,9 @@ Python notebooks for Snowflake AI testing
 ## Přihlášení
 Přihlaste se na Snowflake účet dle pokynů sdělených během cvičení. 
 
-URL - doplníme až bude čas ;)
+URL - https://ulc64393.us-east-1.snowflakecomputing.com/console/login
+
+Credentials - viz tabulka
 
 ## Úlohy
 Stáhněte si všechny Python notebooky z tohoto repozitáře na svůj lokální počítač. Následně si je nahrajte do svého Snowflake workspacu:
